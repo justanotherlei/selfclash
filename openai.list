@@ -1,15 +1,15 @@
 #openai
- - DOMAIN-SUFFIX,ai.com,Ⓜ️ 访问GPT
- - DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net,Ⓜ️ 访问GPT
- - DOMAIN-SUFFIX,compute-pipe.com,Ⓜ️ 访问GPT
- - DOMAIN-SUFFIX,edgecompute.app,Ⓜ️ 访问GPT
- - DOMAIN-SUFFIX,every1dns.net,Ⓜ️ 访问GPT
- - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,Ⓜ️ 访问GPT
- - DOMAIN-SUFFIX,azureedge.net,Ⓜ️ 访问GPT
- - DOMAIN-SUFFIX,intercom.io,Ⓜ️ 访问GPT
- - DOMAIN-SUFFIX,stripe.com,Ⓜ️ 访问GPT
- - DOMAIN-SUFFIX,intercomcdn.com,Ⓜ️ 访问GPT
- - DOMAIN-SUFFIX,stripe.network,Ⓜ️ 访问GPT
- - DOMAIN-SUFFIX,auth0.com,Ⓜ️ 访问GPT
- - DOMAIN-SUFFIX,sentry.io,Ⓜ️ 访问GPT
- - DOMAIN-SUFFIX,cloudflare.com,Ⓜ️ 访问GPT
+ - DOMAIN-SUFFIX,ai.com
+ - DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+ - DOMAIN-SUFFIX,compute-pipe.com
+ - DOMAIN-SUFFIX,edgecompute.app
+ - DOMAIN-SUFFIX,every1dns.net
+ - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+ - DOMAIN-SUFFIX,azureedge.net
+ - DOMAIN-SUFFIX,intercom.io
+ - DOMAIN-SUFFIX,stripe.com
+ - DOMAIN-SUFFIX,intercomcdn.com
+ - DOMAIN-SUFFIX,stripe.network
+ - DOMAIN-SUFFIX,auth0.com
+ - DOMAIN-SUFFIX,sentry.io
+ - DOMAIN-SUFFIX,cloudflare.com
