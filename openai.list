@@ -6,19 +6,24 @@ DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,pay.openai.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
+#cloudflare
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+#stripe
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,invoice.stripe.com
+DOMAIN-SUFFIX,stripe.network
+#azureedge
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+#others maybe
 DOMAIN-SUFFIX,compute-pipe.com
 DOMAIN-SUFFIX,edgecompute.app
 DOMAIN-SUFFIX,every1dns.net
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,poe.com
+#iptest
 DOMAIN-SUFFIX,whatismyipaddress.com
