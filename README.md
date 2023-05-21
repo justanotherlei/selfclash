@@ -1,3 +1,2 @@
 # selfclash
-clash rule for myself
-根据网上各种信息拼凑的一个访问Chatgpt用的规则，并与ACL4SSR规则文件做了合并。
+自用的Chatgpt访问策略文件，适用于Clash。由于是网上各路信息拼凑而来，非常不精简，其他规则采用了ACL4SSR的版本。
