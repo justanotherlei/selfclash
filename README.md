@@ -4,3 +4,5 @@
 Openai.list地址：https://raw.githubusercontent.com/justanotherlei/selfclash/main/openai.list
 
 整合ACL4SSR地址：https://raw.githubusercontent.com/justanotherlei/selfclash/main/ACL4SSR_addgpt.ini
+
+Clash订阅转换工具地址：https://acl4ssr-sub.github.io/
